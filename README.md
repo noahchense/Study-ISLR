@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=aRAKXAxnEQY
+
 The Statistical Learning Series
 =======
 Slides and materials for our study group with reference "An Introduction to Statistical Learning [(ISLR)](http://www-bcf.usc.edu/~gareth/ISL/)"
